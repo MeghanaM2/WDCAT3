@@ -1,0 +1,9 @@
+{
+    "houseInformation":[
+      {"id":101,"name":"rajini", "price":"bca","address":"dancing","type":"techrev"},
+      {"id":102,"name":"kamal", "price":"bba","address":"singing","type":"technovid"},
+      {"id":103,"name":"sridevi", "price":"bca","address":"singing","type":"techrev"},
+      {"id":104,"name":"amala", "price":"bsc","address":"dancing","type":"technovid"},
+      {"id":105,"name":"mohan", "price":"bcom","address":"mimic","type":"technovid"}
+    ]
+}
